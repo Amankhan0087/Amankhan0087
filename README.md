@@ -146,7 +146,7 @@ I am an **AI Engineer**, **Data Scientist**, and **Data Engineer** with hands-on
 
 <p align="center">
   <em>Turning data into decisions and ideas into intelligent products.</em><br/>
-  <strong>Available for remote internships and full-time roles globally</strong>
+  <strong>Available for remote and full-time roles globally</strong>
 </p>
 
 <p align="center">
