@@ -13,6 +13,14 @@
   <img src="https://komarev.com/ghpvc/?username=Amankhan0087&style=for-the-badge&color=00B4D8&label=Profile+Views" alt="Profile Views"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating contributions" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=60&section=header&animation=fadeIn" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -127,4 +135,8 @@ I am an **AI Engineer, Data Scientist, and Data Engineer** with hands-on experie
 <p align="center">
   Turning data into decisions and ideas into intelligent products.<br/>
   Available for remote internships and full-time roles globally
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=80&section=footer" />
 </p>
